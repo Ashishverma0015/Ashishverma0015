@@ -89,5 +89,5 @@ A frontend project inspired by YouTube's interface, built using HTML and Tailwin
 
 
 
-⭐ *Thanks for visiting my profile! Feel free to explore my repositories and follow my journey as I continue learning and building.*
+⭐ *Thanks for visiting my profile!
 
